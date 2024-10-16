@@ -1,8 +1,5 @@
-# MAKE SURE TO VIEW THIS FILE EVERY COUPLE DAYS
----
-
+### MAKE SURE TO VIEW THIS FILE EVERY COUPLE DAYS
 # What's Going On?
-
 Welcome to the SLSS Code Club’s live project update file! This is where we’ll track what’s currently happening in the club, what tasks are being worked on, and where we need help. Make sure to check this file regularly to stay up to date.
 
 ## Current Status
